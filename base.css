@@ -1,0 +1,8 @@
+* {
+    background-color: lightgray;
+    box-sizing: border-box;
+}
+
+section, article {
+    border: 2px solid black;
+}
